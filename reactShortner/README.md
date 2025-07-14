@@ -22,7 +22,7 @@ A modern, client-side URL shortener built with **React**, **Material UI**, and *
 
 ## 🖥️ Live Demo
 
-👉 [Try it on Vercel](https://your-deployed-app.vercel.app) *(Add your deployment link)*
+👉 [Try it on Vercel](https://url-shortner1-in3k.vercel.app/) *(Add your deployment link)*
 
 ## 📦 Installation
 
